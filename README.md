@@ -1,10 +1,5 @@
-# Calculator App
+A simple calculator built using HTML, CSS and JavaScript. 
+Made this as one of my mini web apps while working on my portfolio, while keeping the design clean and straightforward.
+Handles basic arithmetic and is easy to run in any browser.
 
-A small calculator built with HTML, CSS and JavaScript. 
-I made this as one of my mini-apps for my main web portfolio project. 
-It handles basic arithmetic and is simple, fast and easy to use.
-
-# How to Run
-Open index.html in any browser.
-
-:)
+Thanks for checking out the project.
